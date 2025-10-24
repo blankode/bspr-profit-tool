@@ -2,7 +2,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "奥数刻印·攻击",
+        "name": "Arcane Seal - Attack (epic)",
         "range": [
             14790,
             44370
@@ -11,7 +11,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "奥数刻印·辅助",
+        "name": "Arcane Seal - Support (epic)",
         "range": [
             14790,
             44370
@@ -20,7 +20,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "奥数刻印·守护",
+        "name": "Arcane Seal - Guard (epic)",
         "range": [
             14790,
             44370
@@ -29,7 +29,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "雷影剑士进阶之书",
+        "name": "Stormblade Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -38,7 +38,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "巨刃守护者进阶之书",
+        "name": "Heavy Guardian Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -47,7 +47,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "冰魔导师进阶之书",
+        "name": "Frost Mage Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -56,7 +56,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "森语者进阶之书",
+        "name": "Verdant Oracle Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -65,7 +65,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "神射手进阶之书",
+        "name": "Marksman Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -74,7 +74,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "青岚骑士进阶之书",
+        "name": "Wind Knight Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -83,7 +83,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "神盾骑士进阶之书",
+        "name": "Shield Knight Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -92,7 +92,7 @@
     {
         "sidebar": 0,
         "tab": 0,
-        "name": "灵魂乐手进阶之书",
+        "name": "Beat Performer Advance Book (epic)",
         "range": [
             14199,
             31059
@@ -101,7 +101,7 @@
     {
         "sidebar": 0,
         "tab": 1,
-        "name": "星炼结晶·等级1",
+        "name": "Starforge Crystal Lv.1 (epic)",
         "range": [
             14199,
             31059
@@ -110,7 +110,7 @@
     {
         "sidebar": 0,
         "tab": 1,
-        "name": "星炼结晶·等级2",
+        "name": "Starforge Crystal Lv.2 (epic)",
         "range": [
             1000,
             100000
@@ -119,7 +119,7 @@
     {
         "sidebar": 0,
         "tab": 1,
-        "name": "重铸石·40装等",
+        "name": "Reforge Stone Lv.40 (epic)",
         "range": [
             1000,
             100000
@@ -128,7 +128,7 @@
     {
         "sidebar": 0,
         "tab": 1,
-        "name": "重铸石·60装等",
+        "name": "Reforge Stone Lv.60 (epic)",
         "range": [
             10000,
             100000
@@ -137,7 +137,7 @@
     {
         "sidebar": 0,
         "tab": 1,
-        "name": "重铸石·80装等",
+        "name": "Reforge Stone Lv.80 (epic)",
         "range": [
             10000,
             300000
@@ -146,7 +146,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "混沌的烙印·极",
+        "name": "混沌的烙印·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -155,7 +155,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "时之遗珀·极",
+        "name": "时之遗珀·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -164,7 +164,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "幻光之虹·极",
+        "name": "幻光之虹·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -173,7 +173,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "虚实的残缕·极",
+        "name": "虚实的残缕·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -182,7 +182,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "源初之核·极",
+        "name": "源初之核·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -191,7 +191,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "不朽的盛放·极",
+        "name": "不朽的盛放·极 (unmatched)",
         "range": [
             30000,
             300000
@@ -200,7 +200,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "混沌的烙印",
+        "name": "混沌的烙印 (unmatched)",
         "range": [
             1000,
             100000
@@ -209,7 +209,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "时之遗珀",
+        "name": "时之遗珀 (unmatched)",
         "range": [
             1000,
             100000
@@ -218,7 +218,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "幻光之虹",
+        "name": "幻光之虹 (unmatched)",
         "range": [
             1000,
             100000
@@ -227,7 +227,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "虚实的残缕",
+        "name": "虚实的残缕 (unmatched)",
         "range": [
             1000,
             100000
@@ -236,7 +236,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "源初之核",
+        "name": "源初之核 (unmatched)",
         "range": [
             1000,
             100000
@@ -245,7 +245,7 @@
     {
         "sidebar": 0,
         "tab": 3,
-        "name": "不朽的盛放",
+        "name": "不朽的盛放 (unmatched)",
         "range": [
             1000,
             100000
@@ -254,7 +254,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "甜甜浆果",
+        "name": "甜甜浆果 (unmatched)",
         "range": [
             40,
             118
@@ -278,7 +278,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "乌姆果",
+        "name": "乌姆果 (unmatched)",
         "range": [
             55,
             163
@@ -302,7 +302,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "幽兰果",
+        "name": "幽兰果 (unmatched)",
         "range": [
             74,
             222
@@ -326,7 +326,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "草地小伞",
+        "name": "草地小伞 (unmatched)",
         "range": [
             40,
             118
@@ -350,7 +350,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "荧光蕈",
+        "name": "荧光蕈 (unmatched)",
         "range": [
             55,
             163
@@ -374,7 +374,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "婆婆树松",
+        "name": "婆婆树松 (unmatched)",
         "range": [
             74,
             222
@@ -398,7 +398,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "雪花芹",
+        "name": "雪花芹 (unmatched)",
         "range": [
             40,
             118
@@ -422,7 +422,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "粉麝香",
+        "name": "粉麝香 (unmatched)",
         "range": [
             55,
             163
@@ -446,7 +446,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "寄语兰",
+        "name": "寄语兰 (unmatched)",
         "range": [
             74,
             222
@@ -470,7 +470,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "奇异果",
+        "name": "奇异果 (unmatched)",
         "range": [
             1000,
             4000
@@ -479,7 +479,7 @@
     {
         "sidebar": 1,
         "tab": 0,
-        "name": "常世草",
+        "name": "常世草 (unmatched)",
         "range": [
             1000,
             4000
@@ -488,7 +488,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "巴鲁矿石",
+        "name": "巴鲁矿石 (unmatched)",
         "range": [
             64,
             192
@@ -512,7 +512,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "巴鲁富矿石",
+        "name": "巴鲁富矿石 (unmatched)",
         "range": [
             74,
             222
@@ -536,7 +536,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "巴鲁精矿石",
+        "name": "巴鲁精矿石 (unmatched)",
         "range": [
             89,
             265
@@ -556,7 +556,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "阿兹特矿石",
+        "name": "阿兹特矿石 (unmatched)",
         "range": [
             64,
             192
@@ -580,7 +580,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "阿兹特富矿石",
+        "name": "阿兹特富矿石 (unmatched)",
         "range": [
             74,
             222
@@ -604,7 +604,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "阿兹特精矿石",
+        "name": "阿兹特精矿石 (unmatched)",
         "range": [
             89,
             265
@@ -624,7 +624,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "卢纳矿石",
+        "name": "卢纳矿石 (unmatched)",
         "range": [
             64,
             192
@@ -648,7 +648,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "卢纳富矿石",
+        "name": "卢纳富矿石 (unmatched)",
         "range": [
             74,
             222
@@ -672,7 +672,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "卢纳精矿石",
+        "name": "卢纳精矿石 (unmatched)",
         "range": [
             89,
             265
@@ -692,7 +692,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "斯托克斯富矿石",
+        "name": "斯托克斯富矿石 (unmatched)",
         "range": [
             301,
             901
@@ -712,7 +712,7 @@
     {
         "sidebar": 1,
         "tab": 1,
-        "name": "斯托克斯精矿石",
+        "name": "斯托克斯精矿石 (unmatched)",
         "range": [
             350,
             1050
@@ -740,7 +740,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃赤晶原石·1级",
+        "name": "星萃赤晶原石·1级 (unmatched)",
         "range": [
             79,
             237
@@ -764,7 +764,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃赤晶原石·2级",
+        "name": "Ruby - Bulwark 2 (rare)",
         "range": [
             109,
             325
@@ -788,7 +788,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃赤晶原石·3级",
+        "name": "Ruby - Bulwark 3 (rare)",
         "range": [
             168,
             502
@@ -812,7 +812,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃蓝晶原石·1级",
+        "name": "星萃蓝晶原石·1级 (unmatched)",
         "range": [
             79,
             237
@@ -836,7 +836,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃蓝晶原石·2级",
+        "name": "Sapphire - Bulwark 2 (rare)",
         "range": [
             109,
             325
@@ -860,7 +860,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃蓝晶原石·3级",
+        "name": "Sapphire - Bulwark 3 (rare)",
         "range": [
             168,
             502
@@ -884,7 +884,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃翠晶原石·1级",
+        "name": "星萃翠晶原石·1级 (unmatched)",
         "range": [
             79,
             237
@@ -908,7 +908,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃翠晶原石·2级",
+        "name": "Emerald - Bulwark 2 (rare)",
         "range": [
             109,
             325
@@ -932,7 +932,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃翠晶原石·3级",
+        "name": "Emerald - Bulwark 3 (rare)",
         "range": [
             168,
             502
@@ -956,7 +956,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃耀晶原石·1级",
+        "name": "星萃耀晶原石·1级 (unmatched)",
         "range": [
             79,
             237
@@ -980,7 +980,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃耀晶原石·2级",
+        "name": "Diamond - Bulwark 2 (rare)",
         "range": [
             109,
             325
@@ -1004,7 +1004,7 @@
     {
         "sidebar": 1,
         "tab": 2,
-        "name": "星萃耀晶原石·3级",
+        "name": "Diamond - Bulwark 3 (rare)",
         "range": [
             168,
             502
@@ -1028,7 +1028,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鲜肉",
+        "name": "鲜肉 (unmatched)",
         "range": [
             40,
             118
@@ -1052,7 +1052,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "精制鲜肉",
+        "name": "精制鲜肉 (unmatched)",
         "range": [
             54,
             162
@@ -1076,7 +1076,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "顶级鲜肉",
+        "name": "顶级鲜肉 (unmatched)",
         "range": [
             74,
             222
@@ -1100,7 +1100,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼肉",
+        "name": "鱼肉 (unmatched)",
         "range": [
             40,
             118
@@ -1124,7 +1124,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "精制鱼肉",
+        "name": "精制鱼肉 (unmatched)",
         "range": [
             54,
             162
@@ -1148,7 +1148,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "顶级鱼肉",
+        "name": "顶级鱼肉 (unmatched)",
         "range": [
             74,
             222
@@ -1172,7 +1172,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "超元气甜品",
+        "name": "Cheer-Up Treat (epic)",
         "range": [
             20000,
             90000
@@ -1198,7 +1198,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "罐罐鱼·等级1",
+        "name": "Canned Fish Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1240,7 +1240,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "罐罐鱼·等级2",
+        "name": "Canned Fish Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1282,7 +1282,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "炭火鱼排·等级1",
+        "name": "Grilled Fish Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1324,7 +1324,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "炭火鱼排·等级2",
+        "name": "Grilled Fish Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1366,7 +1366,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "坛坛肉·等级1",
+        "name": "Jarred Meat Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1408,7 +1408,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "坛坛肉·等级2",
+        "name": "Jarred Meat Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1450,7 +1450,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "裹花蒸丸子·等级1",
+        "name": "Blossom Dumpling Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1492,7 +1492,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "裹花蒸丸子·等级2",
+        "name": "Blossom Dumpling Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1534,7 +1534,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "蜜菇汤·等级1",
+        "name": "Honeyshroom Soup Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1576,7 +1576,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "蜜菇汤·等级2",
+        "name": "Honeyshroom Soup Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1618,7 +1618,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "香蕈乳冻·等级1",
+        "name": "Shroom Jelly Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1660,7 +1660,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "香蕈乳冻·等级2",
+        "name": "Shroom Jelly Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1702,7 +1702,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "郁郁鲜果茶·等级1",
+        "name": "Yoyo Fruit Tea Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1744,7 +1744,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "郁郁鲜果茶·等级2",
+        "name": "Yoyo Fruit Tea Lv.2 (rare)",
         "range": [
             1085,
             3253
@@ -1786,7 +1786,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "糖露莓果·等级1",
+        "name": "Sweet Dew Berry - Lv.1 (common)",
         "range": [
             592,
             1774
@@ -1828,7 +1828,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "糖露莓果·等级2",
+        "name": "Sweet Dew Berry - Level 2 (rare)",
         "range": [
             1085,
             3253
@@ -1870,7 +1870,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼鲜熔岩·等级1",
+        "name": "Lavafish Stew Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -1916,7 +1916,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼鲜熔岩·等级2",
+        "name": "Lavafish Stew Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -1962,7 +1962,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼酱蜜汁肉排·等级1",
+        "name": "Glazefin Chop Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2008,7 +2008,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼酱蜜汁肉排·等级2",
+        "name": "Glazefin Chop Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2054,7 +2054,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼菇双鲜锅·等级1",
+        "name": "Astelpot Duo Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2100,7 +2100,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "鱼菇双鲜锅·等级2",
+        "name": "Astelpot Duo Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2146,7 +2146,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "菇菇阿斯特锅·等级1",
+        "name": "Astelshroom Pot Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2192,7 +2192,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "菇菇阿斯特锅·等级2",
+        "name": "Astelshroom Pot Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2238,7 +2238,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "绉纱鱼果滚羹·等级1",
+        "name": "Veilfruit Stew Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2284,7 +2284,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "绉纱鱼果滚羹·等级2",
+        "name": "Veilfruit Stew Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2330,7 +2330,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "香熏鱼·等级1",
+        "name": "Aromafish Can Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2376,7 +2376,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "香熏鱼·等级2",
+        "name": "Aromafish Can Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2422,7 +2422,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "肉馅蒸胖菇菇·等级1",
+        "name": "Stuffshroom Puff Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2468,7 +2468,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "肉馅蒸胖菇菇·等级2",
+        "name": "Stuffshroom Puff Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2514,7 +2514,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "黄油肉块·等级1",
+        "name": "Buttery Chunks Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2560,7 +2560,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "黄油肉块·等级2",
+        "name": "Buttery Chunks Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2606,7 +2606,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "碳火果木烤肉·等级1",
+        "name": "Charfruit Roast Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2652,7 +2652,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "碳火果木烤肉·等级2",
+        "name": "Charfruit Roast Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2698,7 +2698,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "清炖肉汤·等级1",
+        "name": "Plainmeat Soup Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2744,7 +2744,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "清炖肉汤·等级2",
+        "name": "Plainmeat Soup Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2790,7 +2790,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "朴素阿斯特锅·等级1",
+        "name": "Simple Asterleeds Pot Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2832,7 +2832,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "朴素阿斯特锅·等级2",
+        "name": "Simple Asterleeds Pot Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2874,7 +2874,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "九味腌肉·等级1",
+        "name": "Nine-Flavor Meat Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -2916,7 +2916,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "九味腌肉·等级2",
+        "name": "Nine-Flavor Meat Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -2958,7 +2958,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "菇噜酱·等级1",
+        "name": "Mushroom Sauce Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3000,7 +3000,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "菇噜酱·等级2",
+        "name": "Mushroom Sauce Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3042,7 +3042,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "奶香乌姆·等级1",
+        "name": "Milky Umm - Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3084,7 +3084,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "奶香乌姆·等级2",
+        "name": "Milky Umm - Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3126,7 +3126,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "满足双响串·等级1",
+        "name": "Meatfish Skewer Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3182,7 +3182,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "满足双响串·等级2",
+        "name": "Meatfish Skewer Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3238,7 +3238,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "满足双响串·等级3",
+        "name": "Meatfish Skewer Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -3294,7 +3294,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "真味双宝炖·等级1",
+        "name": "Hearty Stewmix Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3350,7 +3350,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "真味双宝炖·等级2",
+        "name": "Hearty Stewmix Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3406,7 +3406,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "真味双宝炖·等级3",
+        "name": "Hearty Stewmix Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -3462,7 +3462,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "痛痛飞·等级1",
+        "name": "Painfly Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3518,7 +3518,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "痛痛飞·等级2",
+        "name": "Painfly Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3574,7 +3574,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "痛痛飞·等级3",
+        "name": "Painfly Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -3630,7 +3630,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "山菌高汤鱼鲜烩·等级1",
+        "name": "Shroomfish Stew Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3686,7 +3686,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "山菌高汤鱼鲜烩·等级2",
+        "name": "Shroomfish Stew Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3742,7 +3742,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "山菌高汤鱼鲜烩·等级3",
+        "name": "Shroomfish Stew Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -3798,7 +3798,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节阿斯特锅·等级1",
+        "name": "Astelpot Feast Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -3854,7 +3854,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节阿斯特锅·等级2",
+        "name": "Astelpot Feast Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -3910,7 +3910,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节阿斯特锅·等级3",
+        "name": "Astelpot Feast Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -3966,7 +3966,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "果味海洋冰淇林·等级1",
+        "name": "Fruitocean Gelato Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4022,7 +4022,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "果味海洋冰淇林·等级2",
+        "name": "Fruitocean Gelato Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4078,7 +4078,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "果味海洋冰淇林·等级3",
+        "name": "Fruitocean Gelato Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4134,7 +4134,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节精选·等级1",
+        "name": "Seabreeze Special Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4190,7 +4190,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节精选·等级2",
+        "name": "Seabreeze Special Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4246,7 +4246,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "海风节精选·等级3",
+        "name": "Seabreeze Special Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4302,7 +4302,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "妙香绵绵烧肉·等级1",
+        "name": "Buttermelt Roast Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4358,7 +4358,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "妙香绵绵烧肉·等级2",
+        "name": "Buttermelt Roast Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4414,7 +4414,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "妙香绵绵烧肉·等级3",
+        "name": "Buttermelt Roast Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4470,7 +4470,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "透花琉璃蜜肉酱·等级1",
+        "name": "Glazemeat Sauce Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4526,7 +4526,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "透花琉璃蜜肉酱·等级2",
+        "name": "Glazemeat Sauce Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4582,7 +4582,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "透花琉璃蜜肉酱·等级3",
+        "name": "Glazemeat Sauce Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4638,7 +4638,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "卡尼曼果肉碎·等级1",
+        "name": "Kanamia Morsel Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4694,7 +4694,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "卡尼曼果肉碎·等级2",
+        "name": "Kanamia Morsel Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4750,7 +4750,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "卡尼曼果肉碎·等级3",
+        "name": "Kanamia Morsel Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4806,7 +4806,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "黄油飞鱼·等级1",
+        "name": "Buttery Flyfish Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -4858,7 +4858,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "黄油飞鱼·等级2",
+        "name": "Buttery Flyfish Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -4910,7 +4910,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "黄油飞鱼·等级3",
+        "name": "Buttery Flyfish Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -4962,7 +4962,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "小熊蜂蜜肉排·等级1",
+        "name": "Bearcut Patty Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -5014,7 +5014,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "小熊蜂蜜肉排·等级2",
+        "name": "Bearcut Patty Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -5066,7 +5066,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "小熊蜂蜜肉排·等级3",
+        "name": "Bearcut Patty Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -5118,7 +5118,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "藏香菇菇汤·等级1",
+        "name": "Spiceshroom Soup Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -5170,7 +5170,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "藏香菇菇汤·等级2",
+        "name": "Spiceshroom Soup Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -5222,7 +5222,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "藏香菇菇汤·等级3",
+        "name": "Spiceshroom Soup Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -5274,7 +5274,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "寻觅鲜果汁·等级1",
+        "name": "Wanderfruit Juice Lv.1 (rare)",
         "range": [
             1085,
             3253
@@ -5326,7 +5326,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "寻觅鲜果汁·等级2",
+        "name": "Wanderfruit Juice Lv.2 (epic)",
         "range": [
             1627,
             4881
@@ -5378,7 +5378,7 @@
     {
         "sidebar": 1,
         "tab": 3,
-        "name": "寻觅鲜果汁·等级3",
+        "name": "Wanderfruit Juice Lv.3 (legendary)",
         "range": [
             2860,
             10008
@@ -5430,7 +5430,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰元素颗粒·等级1",
+        "name": "冰元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5455,7 +5455,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰元素颗粒·等级2",
+        "name": "冰元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5480,7 +5480,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰元素颗粒·等级3",
+        "name": "冰元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5505,7 +5505,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "火元素颗粒·等级1",
+        "name": "火元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5530,7 +5530,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "火元素颗粒·等级2",
+        "name": "火元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5555,7 +5555,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "火元素颗粒·等级3",
+        "name": "火元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5580,7 +5580,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "森元素颗粒·等级1",
+        "name": "森元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5605,7 +5605,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "森元素颗粒·等级2",
+        "name": "森元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5630,7 +5630,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "森元素颗粒·等级3",
+        "name": "森元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5655,7 +5655,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "岩元素颗粒·等级1",
+        "name": "岩元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5680,7 +5680,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "岩元素颗粒·等级2",
+        "name": "岩元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5705,7 +5705,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "岩元素颗粒·等级3",
+        "name": "岩元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5730,7 +5730,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "风元素颗粒·等级1",
+        "name": "风元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5755,7 +5755,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "风元素颗粒·等级2",
+        "name": "风元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5780,7 +5780,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "风元素颗粒·等级3",
+        "name": "风元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5805,7 +5805,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷元素颗粒·等级1",
+        "name": "雷元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5830,7 +5830,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷元素颗粒·等级2",
+        "name": "雷元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5855,7 +5855,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷元素颗粒·等级3",
+        "name": "雷元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5880,7 +5880,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光元素颗粒·等级1",
+        "name": "光元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5905,7 +5905,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光元素颗粒·等级2",
+        "name": "光元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -5930,7 +5930,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光元素颗粒·等级3",
+        "name": "光元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -5955,7 +5955,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗元素颗粒·等级1",
+        "name": "暗元素颗粒·等级1 (unmatched)",
         "range": [
             300,
             3000
@@ -5980,7 +5980,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗元素颗粒·等级2",
+        "name": "暗元素颗粒·等级2 (unmatched)",
         "range": [
             300,
             3000
@@ -6005,7 +6005,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗元素颗粒·等级3",
+        "name": "暗元素颗粒·等级3 (unmatched)",
         "range": [
             1000,
             10000
@@ -6030,7 +6030,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "奥术转换药剂",
+        "name": "奥术转换药剂 (unmatched)",
         "range": [
             2000,
             15000
@@ -6056,7 +6056,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "智识转换药剂",
+        "name": "智识转换药剂 (unmatched)",
         "range": [
             2000,
             15000
@@ -6082,7 +6082,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "治愈芳香·等级1",
+        "name": "Healing Aromatic Lv.1 (common)",
         "range": [
             148,
             442
@@ -6124,7 +6124,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "治愈芳香·等级2",
+        "name": "Healing Aromatic Lv.2 (rare)",
         "range": [
             295,
             885
@@ -6166,7 +6166,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "治愈芳香·等级3",
+        "name": "Healing Aromatic Lv.3 (epic)",
         "range": [
             591,
             2066
@@ -6208,7 +6208,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "烈火糖浆·等级1",
+        "name": "Fire Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -6239,7 +6239,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "烈火糖浆·等级2",
+        "name": "Fire Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -6271,7 +6271,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "烈火糖浆·等级3",
+        "name": "Fire Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -6302,7 +6302,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗火含片·等级1",
+        "name": "Fire Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -6328,7 +6328,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗火含片·等级2",
+        "name": "Fire Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -6354,7 +6354,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗火含片·等级3",
+        "name": "Fire Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -6380,7 +6380,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰冻糖浆·等级1",
+        "name": "Ice Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -6411,7 +6411,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰冻糖浆·等级2",
+        "name": "Ice Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -6443,7 +6443,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "冰冻糖浆·等级3",
+        "name": "Ice Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -6474,7 +6474,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗冰含片·等级1",
+        "name": "Ice Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -6500,7 +6500,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗冰含片·等级2",
+        "name": "Ice Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -6526,7 +6526,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗冰含片·等级3",
+        "name": "Ice Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -6552,7 +6552,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "青蔓糖浆·等级1",
+        "name": "Forest Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -6583,7 +6583,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "青蔓糖浆·等级2",
+        "name": "Forest Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -6615,7 +6615,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "青蔓糖浆·等级3",
+        "name": "Forest Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -6646,7 +6646,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗森含片·等级1",
+        "name": "Forest Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -6672,7 +6672,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗森含片·等级2",
+        "name": "Forest Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -6698,7 +6698,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗森含片·等级3",
+        "name": "Forest Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -6724,7 +6724,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "震土糖浆·等级1",
+        "name": "Earth Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -6755,7 +6755,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "震土糖浆·等级2",
+        "name": "Earth Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -6787,7 +6787,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "震土糖浆·等级3",
+        "name": "Earth Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -6818,7 +6818,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗土含片·等级1",
+        "name": "Wind Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -6844,7 +6844,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗土含片·等级2",
+        "name": "Wind Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -6870,7 +6870,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗土含片·等级3",
+        "name": "Wind Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -6896,7 +6896,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "旋风糖浆·等级1",
+        "name": "Wind Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -6927,7 +6927,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "旋风糖浆·等级2",
+        "name": "Wind Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -6959,7 +6959,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "旋风糖浆·等级3",
+        "name": "Wind Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -6990,7 +6990,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗风含片·等级1",
+        "name": "Wind Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -7016,7 +7016,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗风含片·等级2",
+        "name": "Wind Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -7042,7 +7042,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗风含片·等级3",
+        "name": "Wind Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -7068,7 +7068,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷鸣糖浆·等级1",
+        "name": "Lightning Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -7099,7 +7099,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷鸣糖浆·等级2",
+        "name": "Lightning Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -7131,7 +7131,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "雷鸣糖浆·等级3",
+        "name": "Lightning Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -7162,7 +7162,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗雷含片·等级1",
+        "name": "Lightning Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -7188,7 +7188,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗雷含片·等级2",
+        "name": "Lightning Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -7214,7 +7214,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗雷含片·等级3",
+        "name": "Lightning Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -7240,7 +7240,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光彩糖浆·等级1",
+        "name": "Light Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -7271,7 +7271,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光彩糖浆·等级2",
+        "name": "Light Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -7303,7 +7303,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "光彩糖浆·等级3",
+        "name": "Light Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -7334,7 +7334,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗光含片·等级1",
+        "name": "Light Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -7360,7 +7360,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗光含片·等级2",
+        "name": "Light Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -7386,7 +7386,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗光含片·等级3",
+        "name": "Light Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -7412,7 +7412,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗夜糖浆·等级1",
+        "name": "Dark Serum Lv.1 (common)",
         "range": [
             787,
             2361
@@ -7443,7 +7443,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗夜糖浆·等级2",
+        "name": "Dark Serum Lv.2 (rare)",
         "range": [
             1329,
             3985
@@ -7475,7 +7475,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "暗夜糖浆·等级3",
+        "name": "Dark Serum Lv.3 (epic)",
         "range": [
             2116,
             7404
@@ -7506,7 +7506,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗暗含片·等级1",
+        "name": "Dark Drop Lv.1 (common)",
         "range": [
             500,
             5000
@@ -7532,7 +7532,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗暗含片·等级2",
+        "name": "Dark Drop Lv.2 (rare)",
         "range": [
             2000,
             10000
@@ -7558,7 +7558,7 @@
     {
         "sidebar": 1,
         "tab": 4,
-        "name": "抗暗含片·等级3",
+        "name": "Dark Drop Lv.3 (epic)",
         "range": [
             5000,
             20000
@@ -7584,7 +7584,7 @@
     {
         "sidebar": 1,
         "tab": 5,
-        "name": "布里机械片",
+        "name": "Buri Mech Shard (rare)",
         "range": [
             5500,
             12000
@@ -7645,7 +7645,7 @@
     {
         "sidebar": 1,
         "tab": 5,
-        "name": "莫斯机械片",
+        "name": "Moss Mech Shard (epic)",
         "range": [
             10000,
             100000
@@ -7654,7 +7654,7 @@
     {
         "sidebar": 1,
         "tab": 5,
-        "name": "神秘金属",
+        "name": "Mystery Metal (rare)",
         "range": [
             1000,
             10000
@@ -7758,7 +7758,7 @@
     {
         "sidebar": 1,
         "tab": 5,
-        "name": "辉耀石",
+        "name": "Radiant Stone (rare)",
         "range": [
             1000,
             10000
@@ -7862,7 +7862,7 @@
     {
         "sidebar": 1,
         "tab": 5,
-        "name": "精锻石",
+        "name": "Fine Forgestone (rare)",
         "range": [
             1000,
             10000
@@ -7966,7 +7966,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石",
+        "name": "Ruby (common)",
         "range": [
             1000,
             10000
@@ -7996,7 +7996,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石",
+        "name": "Sapphire (common)",
         "range": [
             1000,
             10000
@@ -8026,7 +8026,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石",
+        "name": "Emerald (common)",
         "range": [
             1000,
             10000
@@ -8056,7 +8056,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石",
+        "name": "Diamond (common)",
         "range": [
             1000,
             10000
@@ -8086,7 +8086,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·威3",
+        "name": "Ruby - Power 3 (rare)",
         "range": [
             1000,
             8000
@@ -8124,7 +8124,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·磐3",
+        "name": "Ruby - Bulwark 3 (rare)",
         "range": [
             1000,
             8000
@@ -8162,7 +8162,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·疾3",
+        "name": "Ruby - Agility 3 (rare)",
         "range": [
             1000,
             8000
@@ -8200,7 +8200,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·渊3",
+        "name": "Ruby - Abyss 3 (rare)",
         "range": [
             1000,
             8000
@@ -8238,7 +8238,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·威5",
+        "name": "Ruby - Power 5 (epic)",
         "range": [
             3000,
             20000
@@ -8276,7 +8276,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·磐5",
+        "name": "Ruby - Bulwark 5 (epic)",
         "range": [
             3000,
             20000
@@ -8314,7 +8314,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·疾5",
+        "name": "Ruby - Agility 5 (epic)",
         "range": [
             3000,
             20000
@@ -8352,7 +8352,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "赤晶宝石·渊5",
+        "name": "Ruby - Abyss 5 (epic)",
         "range": [
             3000,
             20000
@@ -8390,7 +8390,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·威3",
+        "name": "Sapphire - Power 3 (rare)",
         "range": [
             1000,
             8000
@@ -8428,7 +8428,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·磐3",
+        "name": "Sapphire - Bulwark 3 (rare)",
         "range": [
             1000,
             8000
@@ -8466,7 +8466,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·疾3",
+        "name": "Sapphire - Agility 3 (rare)",
         "range": [
             1000,
             8000
@@ -8504,7 +8504,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·渊3",
+        "name": "Sapphire - Abyss 3 (rare)",
         "range": [
             1000,
             8000
@@ -8542,7 +8542,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·威5",
+        "name": "Sapphire - Power 5 (epic)",
         "range": [
             3000,
             50000
@@ -8580,7 +8580,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·磐5",
+        "name": "Sapphire - Bulwark 5 (epic)",
         "range": [
             3000,
             50000
@@ -8618,7 +8618,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·疾5",
+        "name": "Sapphire - Agility 5 (epic)",
         "range": [
             3000,
             50000
@@ -8656,7 +8656,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "蓝晶宝石·渊5",
+        "name": "Sapphire - Abyss 5 (epic)",
         "range": [
             3000,
             50000
@@ -8694,7 +8694,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·威3",
+        "name": "Emerald - Power 3 (rare)",
         "range": [
             1000,
             8000
@@ -8732,7 +8732,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·磐3",
+        "name": "Emerald - Bulwark 3 (rare)",
         "range": [
             1000,
             8000
@@ -8770,7 +8770,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·疾3",
+        "name": "Emerald - Agility 3 (rare)",
         "range": [
             1000,
             8000
@@ -8808,7 +8808,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·渊3",
+        "name": "Emerald - Abyss 3 (rare)",
         "range": [
             1000,
             8000
@@ -8846,7 +8846,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·威5",
+        "name": "Emerald - Power 5 (epic)",
         "range": [
             3000,
             50000
@@ -8884,7 +8884,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·磐5",
+        "name": "Emerald - Bulwark 5 (epic)",
         "range": [
             3000,
             50000
@@ -8922,7 +8922,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·疾5",
+        "name": "Emerald - Agility 5 (epic)",
         "range": [
             3000,
             50000
@@ -8960,7 +8960,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "翠晶宝石·渊5",
+        "name": "Emerald - Abyss 5 (epic)",
         "range": [
             3000,
             50000
@@ -8998,7 +8998,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·威3",
+        "name": "Diamond - Power 3 (rare)",
         "range": [
             1000,
             8000
@@ -9036,7 +9036,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·磐3",
+        "name": "Diamond - Bulwark 3 (rare)",
         "range": [
             1000,
             8000
@@ -9074,7 +9074,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·疾3",
+        "name": "Diamond - Agility 3 (rare)",
         "range": [
             1000,
             8000
@@ -9112,7 +9112,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·渊3",
+        "name": "Diamond - Abyss 3 (rare)",
         "range": [
             1000,
             8000
@@ -9150,7 +9150,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·威5",
+        "name": "Diamond - Power 5 (epic)",
         "range": [
             3000,
             50000
@@ -9188,7 +9188,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·磐5",
+        "name": "Diamond - Bulwark 5 (epic)",
         "range": [
             3000,
             50000
@@ -9226,7 +9226,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·疾5",
+        "name": "Diamond - Agility 5 (epic)",
         "range": [
             3000,
             50000
@@ -9264,7 +9264,7 @@
     {
         "sidebar": 1,
         "tab": 6,
-        "name": "耀晶宝石·渊5",
+        "name": "Diamond - Abyss 5 (epic)",
         "range": [
             3000,
             50000
@@ -9302,7 +9302,7 @@
     {
         "sidebar": 1,
         "tab": 7,
-        "name": "速燃碳粉",
+        "name": "速燃碳粉 (unmatched)",
         "range": [
             10,
             1000
@@ -9323,7 +9323,7 @@
     {
         "sidebar": 1,
         "tab": 7,
-        "name": "宝石蜡",
+        "name": "宝石蜡 (unmatched)",
         "range": [
             10,
             1000
@@ -9344,7 +9344,7 @@
     {
         "sidebar": 1,
         "tab": 7,
-        "name": "高热速燃碳粉",
+        "name": "高热速燃碳粉 (unmatched)",
         "range": [
             247,
             739
@@ -9365,7 +9365,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "红色浸燃料",
+        "name": "红色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9375,7 +9375,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "橙色浸燃料",
+        "name": "橙色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9385,7 +9385,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "黄色浸燃料",
+        "name": "黄色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9395,7 +9395,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "绿色浸燃料",
+        "name": "绿色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9405,7 +9405,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "青色浸燃料",
+        "name": "青色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9415,7 +9415,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "蓝色浸燃料",
+        "name": "蓝色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
@@ -9425,7 +9425,7 @@
     {
         "sidebar": 1,
         "tab": 8,
-        "name": "紫色浸燃料",
+        "name": "紫色浸燃料 (unmatched)",
         "range": [
             1000,
             10000
