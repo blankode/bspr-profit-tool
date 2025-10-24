@@ -1,28 +1,39 @@
-# README
+## ⚠️ Run as Administrator
 
-运行需要管理员模式
+This tool collects market data from **Star Resonance**.  
+To function correctly, the game must be running in **1080p resolution** and the interface must be **open to the Trading Center**.
 
-采集数据需要游戏处于1080p分辨率且界面位于交易中心
+## 📁 Data Storage
 
-数据文件存于用户根目录下xhgm_prices.json，可以自行去/good/templates/items.json修改对应的产出和配方
+Collected data is saved to:
+~/xhgm_prices.json
 
-## 依赖
-[golang](https://go.dev/)
+You can customize item outputs and crafting recipes by editing:
+/good/templates/items.json
 
-[wails](https://wails.io/zh-Hans/docs/gettingstarted/installation)
+## 🧩 Dependencies
 
-## 代码运行
+Before running, make sure you have installed:
+- [Golang](https://go.dev/)
+- [Wails](https://wails.io/zh-Hans/docs/gettingstarted/installation)
 
-go get github.com/go-vgo/robotgo (首次运行)
+## ▶️ Running the Project
 
-go mod tidy (首次运行)
+**First-time setup:**
 
+go get github.com/go-vgo/robotgo
+
+go mod tidy
+
+Start development mode:
 
 wails dev
 
-## 构建命令
-### windows
+## 🏗️ Build Commands
 wails build -clean -o srpt.exe
 
-### 交叉平台
-GOOS=windows GOARCH=amd64 CGO_ENABLED=1 CC=x86_64-w64-mingw32-gcc CXX=x86_64-w64-mingw32-g++ wails build -clean -o srpt.exe -platform windows/amd64
+## 🔹 Cross-Platform (Building Windows Binary from Another OS)
+GOOS=windows GOARCH=amd64 CGO_ENABLED=1 \
+CC=x86_64-w64-mingw32-gcc \
+CXX=x86_64-w64-mingw32-g++ \
+wails build -clean -o srpt.exe -platform windows/amd64
